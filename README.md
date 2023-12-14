@@ -1,5 +1,5 @@
 - 👋 @fgurgell50
-- 👀 Eu sou desenvolvedor Fullstack React/Node.js e atuo como Backend Java
+- 👀 Eu sou desenvolvedor Fullstack React/Node.js e tb atuo como Backend Java
 - 🌱 Estou constantenmente me aprimorando 
 
 <!---
