@@ -1,4 +1,4 @@
-- 👨🏻‍💻 Me formei e 2000 e fiz um curso de Java e a partir de entao comecei a trabalha com essa tecnologia 
+- 👨🏻‍💻 Me formei em 2000 e fiz um curso de Java e a partir de entao comecei a trabalha com essa tecnologia 
 💚   Conforme eu fui adquirindo experiência na área, descobri que tinha um skil para área de liderença e comecei a me dedicar a parte de Agilidade
 🚀   Conforme fui atuando na Agilildade sempre me mantive atulizado em desenvolvimento e hoje também atuo na área de desenvolvimento web e mobile com a stack   JavaScript (Node, React & React Native) e Java para desenvolver em ambas as frentes.
 💵   Também gosto muito de investimentos, do mercado financeiro e de economia.
