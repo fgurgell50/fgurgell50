@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🛠  Tech Stack
-- HTML CSS JavaScript TypeScript React React GraphQL
+- HTML CSS JavaScript TypeScript Reactjs Nextjs ReactNative GraphQL
 
 ⚙️  Back-end e Banco de Dados:
 - Node.js GraphQL Java Spring Boot Spring Cloud MongoDB PostgreSQL SqlServer Oracle Firebase
