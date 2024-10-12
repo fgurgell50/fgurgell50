@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🛠  Tech Stack
+
+⚙️  Front-end:
 - HTML CSS JavaScript TypeScript Reactjs Nextjs ReactNative GraphQL
 
 ⚙️  Back-end e Banco de Dados:
