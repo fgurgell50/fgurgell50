@@ -2,7 +2,7 @@
 💚   Conforme eu fui adquirindo experiência na área, descobri que tinha um skil para área de liderença e comecei a me dedicar a parte de Agilidade
 🚀   Conforme fui atuando na Agilildade sempre me mantive atulizado em desenvolvimento e hoje também atuo na área de desenvolvimento web e mobile com a stack   JavaScript (Node, React & React Native) e Backend Java.
 💵
-- 🌱 Estou constantenmente me aprimorando
+- 🌱 Estou em constante construcao de conhecimento.
 - Filipenses 4:13
 
 <!---
